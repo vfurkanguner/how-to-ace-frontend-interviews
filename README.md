@@ -1,17 +1,20 @@
 # How to ace frontend interviews? ⚡️
 
-Hey there 👋🏻
+
 
 ### TL;DR
-#### There are 10 hands-on front end interview questions in this repo. 
+#### There are 10 hands-on front end interview questions & answers in this repo. 
 #### Topics related to JavaScript, DOM mutation, React, React Hooks. 
 
+##### Do you know how to prepare for a front-end interview? Cause I didn't.
+
+Hey there 👋🏻
 
 Many sites today are generating interview questions about algorithms and data types. But such heavy operations are not done on the front-end side. Front-end developers should pay more attention to the UI/UX or front-end.
 
 While I was preparing for a front-end position interview, I've worked on very complex algorithms. However, when I went thorough the interview, the questions asked to me were mostly about "How to implement this feature without package?", "Filtering something", "Fetch & show some data in React"... I realized that while solving even the simplest questions, I did it in more complex ways.
 
-So I've decided to prepare practical questions for front-end interviews so that you don't have the same problems. There are 10 questions right now, but I'll add more over time. Topics are as follows:
+So I've decided to prepare practical questions & answers for front-end interviews so that you don't have the same problems. There are 10 questions right now, but I'll add more over time. Topics are as follows:
 
 
 ## JavaScript 3 questions:
@@ -35,6 +38,7 @@ So I've decided to prepare practical questions for front-end interviews so that 
 2. useFetch: https://codesandbox.io/s/fe-interview-react-hooks-q2-usefetch-rzi8m2
 3. useWindowSize: https://codesandbox.io/s/fe-interview-react-hooks-q3-usewindowsize-3wcmfh
 
+### NOTE: If you thing any solution is incorrect or can be done in better ways. Just send me yours solution and I'll change it.
 
 Questions like these are important questions to be done on the front-end. Hopefully it benefits your business. 🤘🏻
 
