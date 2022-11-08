@@ -2,8 +2,8 @@
 
 
 ### TL;DR
-#### There are 10 hands-on front end interview questions & answers in this repo. 
-#### Topics related to JavaScript, DOM mutation, React, React Hooks. 
+1. There are 10 hands-on front end interview questions & answers in this repo. 
+2. Topics related to JavaScript, DOM mutation, React, React Hooks. 
 
 ##### Do you know how to prepare for a front-end interview? Cause I didn't.
 
