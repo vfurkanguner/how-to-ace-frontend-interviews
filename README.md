@@ -1,8 +1,8 @@
-# ⚡️ How to ace frontend interviews? ⚡️
+# ⚡️ How to ace your frontend interviews? ⚡️
 
 
 ### TL;DR
-1. There are 11 hands-on front end interview questions & answers in this repo. 
+1. There are 11 practical front end interview questions & answers in this repo. 
 2. Topics related to JavaScript, DOM mutation, React, React Hooks. 
 
 #### Do you know how to prepare for a front-end interview? Cause I didn't.
