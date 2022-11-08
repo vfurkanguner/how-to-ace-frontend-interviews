@@ -1,5 +1,4 @@
-# How to ace frontend interviews? ⚡️
-
+# ⚡️ How to ace frontend interviews? ⚡️
 
 
 ### TL;DR
@@ -38,7 +37,7 @@ So I've decided to prepare practical questions & answers for front-end interview
 2. useFetch: https://codesandbox.io/s/fe-interview-react-hooks-q2-usefetch-rzi8m2
 3. useWindowSize: https://codesandbox.io/s/fe-interview-react-hooks-q3-usewindowsize-3wcmfh
 
-#### NOTE: If you think any solution is incorrect or can be done in better ways. Just send me yours solution and I'll change it.
+🛑 NOTE: If you think any solution is incorrect or can be done in better ways. Just send me yours solution and I'll change it.
 
 Questions like these are important questions to be done on the front-end. Hopefully it benefits your business. 🤘🏻
 
