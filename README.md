@@ -12,15 +12,14 @@ While I was preparing for a front-end position interview, I've worked on very co
 
 So I've decided to prepare practical questions for front-end interviews so that you don't have the same problems. There are 10 questions right now, but I'll add more over time. Topics are as follows:
 
-⚡️
+
 ## JavaScript 3 questions:
 
 1. Currying Function: https://codesandbox.io/s/fe-interview-javascript-q1-curry-function-ds0x88
 2. Higher Order Functions: https://codesandbox.io/s/fe-interview-javascript-q2-higher-order-functions-bpfmb4
 3. Debounce & Throttle : https://codesandbox.io/s/fe-interview-javascript-q3-debounce-throttle-5k063y
 
-
-## DOM Mutation 3 questions:
+## DOM Mutation 3 questions:
 
 1. Grocery List: https://codesandbox.io/s/fe-interview-dom-mutation-q1-grocery-list-r5bzcb
 2. Simgle Draggable List: https://codesandbox.io/s/fe-interview-dom-mutation-q2-simple-draggle-list-x12svp
