@@ -28,9 +28,10 @@ So I've decided to prepare practical questions & answers for front-end interview
 2. Simgle Draggable List: https://codesandbox.io/s/fe-interview-dom-mutation-q2-simple-draggle-list-x12svp
 3. Timer Part-1(Legacy Code):  https://codesandbox.io/s/fe-interview-dom-mutation-q3-timer-legacy-code-part-1-991vvo 
 
-## React 1 question: 
+## React 2 question: 
 
 1. Timer Part-2: (Legacy code moving to React) https://codesandbox.io/s/fe-interview-react-q1-timer-legacy-code-moving-to-react-part-2-jg70qx
+2. withStyling(HOC approach): https://codesandbox.io/s/react-hoc-pdx9l2
 
 ## React Hook 3 questions
 1. usePrevious: https://codesandbox.io/s/fe-interview-react-hooks-q1-useprevious-nhykpf
