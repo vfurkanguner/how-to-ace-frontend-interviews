@@ -2,10 +2,11 @@
 
 Hey there 👋🏻
 
-## TL;DR: 👇🏻
+
 ### There are 10 hands-on front end interview questions in this repo. 
 #### Topics related to JavaScript, DOM mutation, React, React Hooks. 
 
+##### So...
 Many sites today are generating interview questions about algorithms and data types. But such heavy operations are not done on the front-end side. Front-end developers should pay more attention to the UI/UX or front-end.
 
 While I was preparing for a front-end position interview, I've worked on very complex algorithms. However, when I went thorough the interview, the questions asked to me were mostly about "How to implement this feature without package?", "Filtering something", "Fetch & show some data in React"... I realized that while solving even the simplest questions, I did it in more complex ways.
