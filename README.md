@@ -1,4 +1,4 @@
-# how-to-ace-frontend-interviews
+# How to ace frontend interviews? ⚡️
 
 Hey there 👋🏻
 
