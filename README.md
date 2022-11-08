@@ -2,8 +2,8 @@
 
 Hey there 👋🏻
 
-
-### There are 10 hands-on front end interview questions in this repo. 
+### TL;DR
+#### There are 10 hands-on front end interview questions in this repo. 
 #### Topics related to JavaScript, DOM mutation, React, React Hooks. 
 
 
